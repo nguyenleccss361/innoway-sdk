@@ -1,2 +1,2 @@
-# types-innoway
+# Innoway's SDK types
 TypeScript definitions for Innoway
